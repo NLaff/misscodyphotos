@@ -1,0 +1,32 @@
+# Site settings
+baseurl = "https://misscody.com/"
+languageCode = "en-us"
+title = "Miss Cody - Photographer and Retoucher - Austin, Texas"
+theme = "hugrid"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-41742013-1"
+
+contentdir = "content"
+datadir = "data"
+layoutdir = "layouts"
+publishdir = "public"
+
+[params]
+    # Meta
+    title = "Miss Cody - Photographer and Retoucher"
+    subtitle = "10+ years of experience based in Austin, Texas. Specializes in Portrait and Architecture Photography and Retouching"
+    author = "Miss Cody"
+    description = "Miss Cody is Austin's Premier Portrait and Architecture Photographer and Retoucher. Over 10 years experience, currently accepting new clients."
+    keywords = "austin photographer, austin retoucher, miss cody photos, architecture retoucher, austin architecture retoucher"
+
+    # Body background color
+    bodybgcolor = "#f9f9f9"
+
+    # Preview container button text
+    buttontext = "Get the theme"
+
+    # Footer text
+    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
+
+    # add extra-css
+    # custom_css = ['css/extra1.css', 'css/extra2.css']
