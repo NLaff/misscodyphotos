@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://butts.li"
+baseurl = "https://butts.li/"
 languageCode = "en-us"
 title = "Miss Cody - Photographer and Retoucher - Austin, Texas"
 theme = "hugrid"
