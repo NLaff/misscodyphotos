@@ -157,3 +157,6 @@ a {
 .form-style input[type="button"]:hover{
 	background: #2EBC99;
 }
+
+button { cursor:pointer; }
+input { cursor:pointer; }

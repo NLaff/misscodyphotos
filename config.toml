@@ -11,6 +11,8 @@ datadir = "data"
 layoutdir = "layouts"
 publishdir = "public"
 
+sectionPagesMenu = "main"
+
 [params]
     # Meta
     title = "Miss Cody Photography and Retouching"
