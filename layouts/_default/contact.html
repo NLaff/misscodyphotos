@@ -1,6 +1,11 @@
 {{ define "main" }}
-  <main>
-      {{ .Content }}
-          {{ partial "contact.html" . }}
-  </main>
+<section id="main">
+  <div>
+        <article id="content">
+           {{ .Content }}
+        </article>
+  </div>
+   <div id="form-style">       {{ partial "contactform.html" . }}
+   </div>
+</section>
 {{ end }}
