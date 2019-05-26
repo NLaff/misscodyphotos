@@ -2,13 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miss Cody - Photographer and Retoucher - Austin, Texas</title>
-    <link>https://misscody.com/</link>
+    <link>https://butts.li/</link>
     <description>Recent content on Miss Cody - Photographer and Retoucher - Austin, Texas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 25 May 2019 17:37:24 -0500</lastBuildDate>
     
-	<atom:link href="https://misscody.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://butts.li/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact</title>
+      <link>https://butts.li/contact/</link>
+      <pubDate>Sat, 25 May 2019 17:37:24 -0500</pubDate>
+      
+      <guid>https://butts.li/contact/</guid>
+      <description> Need some work done? Tell me a bit about what you need done and I’ll get back to you asap. {{ partial “contact.html” . }} </description>
+    </item>
     
   </channel>
 </rss>
