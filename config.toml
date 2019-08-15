@@ -1,5 +1,5 @@
 # Site settings (baseurl must end with a trailing slash!)
-baseurl = "https://misscody.com"
+baseurl = "https://misscody.com/"
 languageCode = "en-us"
 title = "Miss Cody - Professional Photo Retoucher - Architecture, Commercial, Portraits"
 theme = "grid-side"
