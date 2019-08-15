@@ -76,14 +76,6 @@ SectionPagesMenu = "Main"
 
         # This must be provided if the image above is not
         #color = "#FFF"
-        
-        # SEO Params
-        
-        metadescription = "Miss Cody is Austin's Premier Architecture, Commercial, and Portrait Photo Retoucher. Over 10 years experience, currently accepting new clients."
-        
-        keywords = "austin retoucher, miss cody photos, architecture retoucher, austin architecture retoucher"
-        
-        author = "Miss Cody"
 
     #
     # Contains the footer of your main page and will also append items to
