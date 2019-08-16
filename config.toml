@@ -135,7 +135,7 @@ SectionPagesMenu = "Main"
         [[Params.Cells.List]]
 
             # The name to use with the cell, shows up on hover
-            name = "Architecture"
+            name = "Architecture Retouch"
 
             # The link to associate with the cell, used when clicked
             link = "architecture/"
@@ -172,7 +172,7 @@ SectionPagesMenu = "Main"
 
         [[Params.Cells.List]]
 
-            name = "Landscapes"
+            name = "Landscape Retouch"
             link = "landscapes/"
             image = "img/landscapes19.jpg"
             cell_large = 3
@@ -181,7 +181,7 @@ SectionPagesMenu = "Main"
 
         [[Params.Cells.List]]
 
-            name = "Portraits"
+            name = "Portrait Retouch"
             link = "portraits/"
             image = "img/mcportraitretouch11.jpg"
             cell_large = 3
@@ -190,7 +190,7 @@ SectionPagesMenu = "Main"
 
         [[Params.Cells.List]]
 
-            name = "Products"
+            name = "Product Retouch"
             link = "products/"
             image = "img/guitar3.jpg"
             cell_large = 3
