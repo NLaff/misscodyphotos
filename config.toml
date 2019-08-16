@@ -1,7 +1,7 @@
 # Site settings (baseurl must end with a trailing slash!)
 baseurl = "https://misscody.com/"
 languageCode = "en-us"
-title = "Miss Cody - Professional Photo Retoucher - Architecture, Commercial, Portraits"
+title = "Miss Cody Retouching - Architecture, Commercial, Portraits"
 theme = "grid-side"
 copyright = "Copyright &#169; by Miss Cody"
 # Enter your tracking code to enable Google Analytics
