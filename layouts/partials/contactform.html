@@ -1,12 +1,12 @@
 <div class="form-style rounded-corners rounded-corners-top rounded-corners-bottom">
 	<h5> Need some retouching done?</h5>
 	<p><center>Tell me what you need and I'll get back to you with a quote!</center></p>
-<form name="contact-form" method="POST" netlify>
+<form name="contact-form" method="POST" action="/contact/thanks" netlify>
 	<p>
-		<input type="text" name="name" placeholder="Name" style="width:100%;" />
+		<input type="text" name="name" placeholder="Name" style="width:100%;" required/>
 	</p>
 	<p>
-		<input type="email" name="email" placeholder="Email" style="width:100%;" />
+		<input type="email" name="email" placeholder="Email" style="width:100%;" required/>
 	</p>
 	<p>
 		<input type="textarea" name="request" placeholder="What kind of project are you working on?" style="width:100%; height:100px;"/>
