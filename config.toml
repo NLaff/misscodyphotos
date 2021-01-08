@@ -68,7 +68,7 @@ enableRobotsTXT = true
         description = "Professional Retoucher"
 
         # This is optional
-        email = "retouch@misscody.com"
+        email = "misscodyretouch@gmail.com"
 
         # Not providing this results in a color being used
         image = "img/landscapes2.jpg"
